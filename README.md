@@ -1,2 +1,2 @@
 # TBC-Lab
-first repo
+first repository
